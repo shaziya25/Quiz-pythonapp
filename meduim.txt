@@ -1,0 +1,35 @@
+
+Q: Who wrote the Indian National Anthem?
+A) Rabindranath Tagore
+B) Bankim Chandra Chattopadhyay
+C) Mahatma Gandhi
+D) Subhash Chandra Bose
+Answer:A
+
+Q: Which gas is essential for breathing?
+A) Carbon dioxide
+B) Oxygen
+C) Nitrogen
+D) Hydrogen
+Answer:B
+
+Q: Which is the smallest prime number?
+A) 0
+B) 1
+C) 2
+D) 3
+Answer:C
+
+Q: What is the square root of 144?
+A) 10
+B) 11
+C) 12
+D) 13
+Answer:C
+
+Q: Who invented the light bulb?
+A) Nikola Tesla
+B) Alexander Graham Bell
+C) Thomas Edison
+D) Newton
+Answer:C
